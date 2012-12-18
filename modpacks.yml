@@ -1,8 +1,7 @@
 modpacks:
-    technicssp: 'Technic SSP'
     tekkit: 'Tekkit'
-    yogbox: 'Yogbox'
-    voxelmodpack: 'VoxelModPack'
-    hackslashmine: 'Hack Slash Mine'
+#    yogbox: 'Yogbox'
+#    hackslashmine: 'Hack Slash Mine'
     vanilla: 'Vanilla'
+    vanmodded: 'Modded Vanilla'
 #    spotlight: 'Thaumcraft 2'

@@ -19,11 +19,3 @@ builds:
         minecraft: 1.2.3
         mods:
             basemods: hackslashmine-v0.5.3
-    '0.5.2':
-        minecraft: 1.2.3
-        mods:
-            basemods: hackslashmine-v0.5.2
-    '0.4':
-        minecraft: 1.2.3
-        mods:
-            basemods: hackslashmine-v0.4
