@@ -11,10 +11,12 @@ mods:
             vanilla-v1.4.5:
             tekkit-v3.1.3:
             tekkit-v3.1.2:
+            vanmodded-v1.0.0:
     balkonsweaponmod:
         installtype: "zip"
         versions:
             v8.6:
+            v1.10.2:
     buildcraft:
         name: "BuildCraft"
         description: "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!"
@@ -22,6 +24,7 @@ mods:
         modtype: "content"
         link: "http://www.mod-buildcraft.com/"
         versions:
+            v3.2.2:
             v2.2.14:
     buildcraft-additionalpipes:
         installtype: "zip"
@@ -32,6 +35,12 @@ mods:
         installtype: "zip"
         versions:
             v017pr1:
+    codechickencore:
+        name: "CodeChickenCore"
+        description: "Required by Chicken Bones' Mods"
+        installtype: "zip"
+        versions:
+            v0.6.16:
     computercraft:
         name: "ComputerCraft"
         description: "Add's Lua based computers to the game"
@@ -49,11 +58,28 @@ mods:
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=929"
         versions:
             v1.95b:
+    claysoldiers:
+        name: "Clay Soldiers"
+        description: "Small enough to hold in your hand, strong enough to rule the land!"
+        installtype: "zip"
+        versions:
+            v9.04:
+    custommobspawner:
+        name: "Custom Mob Spawner"
+        installtype: "zip"
+        versions:
+            v1.9.2:
     dimanchor:
         name: "Dimensional Anchors"
         installtype: "zip"
         versions:
+            v51.0.4:
             v3.2:
+    dynamiclights:
+        name: "Dynamic Lights"
+        installtype: "zip"
+        versions:
+            v1.4.4:
     ee2:
         name: "Equivalent Exchange 2"
         description: ""
@@ -73,6 +99,7 @@ mods:
         modtype: "content"
         link: "http://forum.industrial-craft.net/index.php?page=Board&boardID=58"
         versions:
+            v1.110:
             v1.103:
             v1.97:
     ic2-advancedmachines:
@@ -83,21 +110,30 @@ mods:
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=1174"
         versions:
             v4.0:
+    ic2-advancedrepulsionsystems:
+        name: "IC2 Advanced Repulsion Systems"
+        description: ""
+        installtype: "zip"
+        versions:
+            v51.0.3:
     ic2-compactsolars:
         name: "IC2 Compact Solars"
         description: ""
         installtype: "zip"
         versions:
+            v3.1.3.18:
             v2.3.2.10:
     ic2-nuclearcontrol:
         name: "IC2 Nuuclear Control"
         installtype: "zip"
         versions:
+            v1.4.4b:
             v1.1.10b:
     immibiscore:
         name: "Immibis Core"
         installtype: "zip"
         versions:
+            v51.0.5:
             v49.1.1:
     inventorytweaks:
         name: "Inventory Tweaks"
@@ -112,6 +148,7 @@ mods:
         name: "Iron Chests"
         installtype: "zip"
         versions:
+            v4.3.0.145:
             v3.8.0.40:
     matmos:
         name: "MAtmos"
@@ -120,15 +157,34 @@ mods:
         modtype: "audio"
         versions:
             v12:
+    millenaire:
+        name: "Millenaire"
+        installtype: "zip"
+        versions:
+            v3.3:
     mffs:
         name: "Modular Force Field System"
         installtype: "zip"
         versions:
             v7:
+    mfr:
+        name: "MineFactory Reloaded"
+        description: "A way to automatically farm plants and animals, as well some new rail tracks! With this mod you can set up a completely automated farm for any of these things that requires no real work aside from collecting the harvests and reloading the planter, without incredibly complex and unwieldy water/piston solutions. And you can milk cows to death or otherwise run livestock farms if you need those resources. Oh and it has conveyor belts too."
+        installtype: "zip"
+        modtype: "content"
+        link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/"
+        versions:
+            v1.4.4:
+    mocreatures:
+        installtype: "zip"
+        name: "Mo Creatures"
+        versions:
+            v4.3.1:
     nei:
         name: "Not Enough Items"
         installtype: "zip"
         versions:
+            v1.4.3.4:
             v1.2.2.2:
             v1.2.2:
     netherores:
@@ -138,6 +194,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/#no"
         versions:
+            v1.4.4:
             v1.2.1:
     powerconverters:
         name: "Power Converters"
@@ -145,6 +202,7 @@ mods:
         installtype: "zip"
         modtype: "content"
         versions:
+            v1.4.4:
             v1.3.4:
     rc:
         name: "Railcraft"
@@ -171,16 +229,30 @@ mods:
         link: "http://www.minecraftforum.net/topic/482147-100b181b19pre5jan01-reis-minimap-v29-01/"
         optional: true
         versions:
+            v3.2_05:
             v3.2_04:
+    sapman:
+        name: "San Andreas P Mod manager"
+        description: "Required by Clay Soldiers"
+        installtype: "zip"
+        versions:
+            v12:
+    srm:
+        name: "Secret Rooms Mod"
+        installtype: "zip"
+        versions:
+            v4.4.0.144:
     tubestuff:
         name: "Tube Stuff"
         installtype: "zip"
         versions:
+            v51.0.3:
             v49.1.2:
     wrcbe:
         name: "Wireless Redstone Chicken Bones Edition"
         installtype: "zip"
         versions:
+            v1.3.1.4:
             v1.2.2.3:
     z-tekkit-configs:
         name: "Tekkit Configs"
@@ -196,3 +268,15 @@ mods:
         versions:
             v3.1.3:
             v3.1.2:
+    z-vanmodded-configs:
+        name: "Modded Vanilla Configs"
+        description: "A collection of configs for all vanmodded mods"
+        installtype: "zip"
+        versions:
+            v1.0.0:
+    z-vanmodded-keybinds:
+        name: "Modded Vanilla Keybinds"
+        description: "Separate collection for keybinds"
+        installtype: "zip"
+        versions:
+            v1.0.0:
