@@ -1,4 +1,15 @@
 mods:
+    a-creep:
+        name: "CreeperPack"
+        description: "Rest of Mods not yet seperated out"
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            basemods-v1.0.0:
+            configs-v1.0.0:
+            coremods-v1.0.0:
+            mods-v1.0.0:
     basemods:
         name: "Jar modification Mods"
         description: "Rest of Mods not yet seperated out"

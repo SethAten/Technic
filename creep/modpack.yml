@@ -1,0 +1,21 @@
+launcher: 0.5.0
+current:
+recommended: 1.0.0
+latest: 1.0.0
+lib-1: &lib-1
+    commons-io: 2.1
+    commons-lang3: 3.1
+    guava: 10.0.1
+    joda-time: 2.0
+    slick: 0.3
+    snakeyaml: 1.9
+    trove4j: 3.0.1
+builds:
+    1.0.0:
+        libraries:
+        minecraft: 1.4.7
+        mods:
+            a-creep: basemods-v1.0.0
+            a-creep: configs-v1.0.0
+            a-creep: coremods-v1.0.0
+            a-creep: mods-v1.0.0
