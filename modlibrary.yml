@@ -1,15 +1,36 @@
 mods:
-    a-creep:
-        name: "CreeperPack"
+    a-creep-basemods:
+        name: "CreeperPackBasemods"
         description: "Rest of Mods not yet seperated out"
         installtype: "zip"
         modtype: "content"
         link: ""
         versions:
-            basemods-v1.0.0:
-            configs-v1.0.0:
-            coremods-v1.0.0:
-            mods-v1.0.0:
+            v1.0.0:
+    a-creep-configs:
+        name: "CreeperPackConfigs"
+        description: "Rest of Mods not yet seperated out"
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.0:
+    a-creep-coremods:
+        name: "CreeperPackCoreMods"
+        description: "Rest of Mods not yet seperated out"
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.0:
+    a-creep-mods:
+        name: "CreeperPackMods"
+        description: "Rest of Mods not yet seperated out"
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.0:
     basemods:
         name: "Jar modification Mods"
         description: "Rest of Mods not yet seperated out"

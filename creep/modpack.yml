@@ -15,7 +15,7 @@ builds:
         libraries:
         minecraft: 1.4.7
         mods:
-            a-creep: basemods-v1.0.0
-            a-creep: configs-v1.0.0
-            a-creep: coremods-v1.0.0
-            a-creep: mods-v1.0.0
+            a-creep-basemods: v1.0.0
+            a-creep-configs: v1.0.0
+            a-creep-coremods: v1.0.0
+            a-creep-mods: v1.0.0
