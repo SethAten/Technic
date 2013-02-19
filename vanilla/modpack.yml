@@ -1,15 +1,10 @@
 launcher: 
 current: 
-recommended: '1.4.6'
-latest: '1.4.6'
+recommended: '1.4.7'
+latest: '1.4.7'
 builds:
-    '1.4.6':
+    '1.4.7':
         libraries:
-        minecraft: 1.4.6
+        minecraft: 1.4.7
         mods:
-            basemods: vanilla-v1.4.6
-    '1.4.5':
-        libraries:
-        minecraft: 1.4.5
-        mods:
-            basemods: vanilla-v1.4.5
+            basemods: vanilla-v1.4.7

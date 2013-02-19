@@ -1,8 +1,8 @@
 modpacks:
     #vanmodded: 'Modded Vanilla'
-    tekkit: 'Tekkit'
     creep: 'CreeperPack'
+    vanilla: 'Vanilla'
+    tekkit: 'Tekkit'
 #    yogbox: 'Yogbox'
 #    hackslashmine: 'Hack Slash Mine'
-    #vanilla: 'Vanilla'
 #    spotlight: 'Thaumcraft 2'
