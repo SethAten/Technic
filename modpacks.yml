@@ -1,6 +1,7 @@
 modpacks:
     #vanmodded: 'Modded Vanilla'
     creep: 'CreeperPack'
+    amari: 'AmariPack'
     vanilla: 'Vanilla'
 #    tekkit: 'Tekkit'
 #    yogbox: 'Yogbox'
