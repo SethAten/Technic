@@ -31,6 +31,22 @@ mods:
         link: ""
         versions:
             v1.0.0:
+    amari-coremods:
+        name: "AmariPackCoreMods"
+        description: "Rest of Mods not yet seperated out"
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.0:
+    amari-mods:
+        name: "AmariPackMods"
+        description: "Rest of Mods not yet seperated out"
+        installtype: "zip"
+        modtype: "content"
+        link: ""
+        versions:
+            v1.0.0:
     basemods:
         name: "Jar modification Mods"
         description: "Rest of Mods not yet seperated out"
