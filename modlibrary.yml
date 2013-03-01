@@ -128,7 +128,7 @@ mods:
         name: "ColouredBeds"
         installtype: "zip"
         version:
-            v3.1
+            v3.1:
     computercraft:
         name: "ComputerCraft"
         description: "Add's Lua based computers to the game"
