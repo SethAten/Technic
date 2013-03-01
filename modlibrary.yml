@@ -7,6 +7,7 @@ mods:
         link: ""
         versions:
             v1.0.0:
+            v1.1.0:
     a-creep-configs:
         name: "CreeperPackConfigs"
         description: "Rest of Mods not yet seperated out"
@@ -15,6 +16,7 @@ mods:
         link: ""
         versions:
             v1.0.0:
+            v1.1.0:
     a-creep-coremods:
         name: "CreeperPackCoreMods"
         description: "Rest of Mods not yet seperated out"
@@ -47,6 +49,11 @@ mods:
         link: ""
         versions:
             v1.0.0:
+    animalbikes:
+        name: "Animal Bikes"
+        installtype: "zip"
+        versions:
+            v1.4.6:
     basemods:
         name: "Jar modification Mods"
         description: "Rest of Mods not yet seperated out"
@@ -69,6 +76,7 @@ mods:
         versions:
             v8.6:
             v1.10.2:
+            v1.10.3:
     buildcraft:
         name: "BuildCraft"
         description: "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!"
@@ -78,10 +86,27 @@ mods:
         versions:
             v3.2.2:
             v2.2.14:
+            v3.4.3:
     buildcraft-additionalpipes:
         installtype: "zip"
         versions:
             v2.1.3:
+            v2.1.3.40:
+    buildcraft-logisticspipes:
+        name: "buildcraft-logisticspipes"
+        installtype: "zip"
+        versions:
+            v0.7.0.81:
+    cameracraft:
+        name: "Cameracraft"
+        installtype: "zip"
+        versions:
+            v2.3:
+    camping:
+        name: "CampCraft"
+        installtype: "zip"
+        versions:
+            v1.0:
     ccsensors:
         name: "ccSensors"
         installtype: "zip"
@@ -93,6 +118,17 @@ mods:
         installtype: "zip"
         versions:
             v0.6.16:
+            v0.7.3:
+    cofhcore:
+        name: "CoFHCore"
+        installtype: "zip"
+        versions:
+            v1.4.7.3:
+    coloredbeds:
+        name: "ColouredBeds"
+        installtype: "zip"
+        version:
+            v3.1
     computercraft:
         name: "ComputerCraft"
         description: "Add's Lua based computers to the game"
@@ -102,6 +138,7 @@ mods:
         versions:
             v1.41:
             v1.33:
+            v1.5:
     chargingbench:
         name: "IC2 Charging Bench"
         description: "A bench with multiple charging slots so you can charge all of your items at once.  Apply redstone power to the bench to reverse the way it functions."
@@ -121,17 +158,29 @@ mods:
         installtype: "zip"
         versions:
             v1.9.2:
+    customport:
+        name: "Custom LAN Port"
+        installtype: "zip"
+        versions:
+            v2.0:
     dimanchor:
         name: "Dimensional Anchors"
         installtype: "zip"
         versions:
             v51.0.4:
             v3.2:
+            v52.1.9:
     dynamiclights:
         name: "Dynamic Lights"
         installtype: "zip"
         versions:
             v1.4.4:
+            v1.4.6:
+    dynelevators:
+        name: "Dynamic Elevators"
+        installtype: "zip"
+        versions:
+            v2.0.0.4:
     ee2:
         name: "Equivalent Exchange 2"
         description: ""
@@ -139,11 +188,29 @@ mods:
         modtype: "content"
         versions:
             v1.4.6.5:
+    ee3:
+        name: "Equivalent Exchange 3"
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        versions:
+            v1.6:
     enderstorage:
         name: "EnderStorage"
         installtype: "zip"
         versions:
             v1.1.3:
+            v1.4.1.2:
+    factorization:
+        name: "Factorization"
+        installtype: "zip"
+        versions:
+            v0.7.10:
+    forgeirc:
+        name: "ForgeIRC"
+        installtype: "zip"
+        versions:
+            v1.0.14:
     ic2:
         name: "Industrial Craft 2"
         description: "This is it. IC2, the future of IC. While playing it, you will feel right at home again, rediscovering most of the stuff known from IC. However, once you get your machines running, you will quickly notice how smooth and well-designed everything works now. Wiring is easier, batterys aren't as twosided (on/off) anymore, new cables, rubber stuff, new machines, EVERYTHING was added. Create obstacle courses of Metal Poles and Rubber-Sheets, explore the Nether with an Electrical Jetpack or blow up whole landscapes at once by using the Dynamite-O-Mote. Or discover the much more complex mechanisms of Nuclear Engineering, blow up your hut or burn your hands. Or grab the rusty ol Composite Vest, and start hunting Creepers with the new, allmighty NanoSaber."
@@ -154,6 +221,7 @@ mods:
             v1.110:
             v1.103:
             v1.97:
+            v1.115:
     ic2-advancedmachines:
         name: "IC2 Advanced Machines"
         description: ""
@@ -162,12 +230,20 @@ mods:
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=1174"
         versions:
             v4.0:
+            v4.7.1:
+    ic2-advpowermanagement:
+        name: "IC2 Advanced Power Management"
+        description: ""
+        installtype: "zip"
+        versions:
+            v1.1.55:
     ic2-advancedrepulsionsystems:
         name: "IC2 Advanced Repulsion Systems"
         description: ""
         installtype: "zip"
         versions:
             v51.0.3:
+            v52.0.6:
     ic2-compactsolars:
         name: "IC2 Compact Solars"
         description: ""
@@ -175,18 +251,21 @@ mods:
         versions:
             v3.1.3.18:
             v2.3.2.10:
+            v3.2.3.23:
     ic2-nuclearcontrol:
         name: "IC2 Nuuclear Control"
         installtype: "zip"
         versions:
             v1.4.4b:
             v1.1.10b:
+            v1.4.6:
     immibiscore:
         name: "Immibis Core"
         installtype: "zip"
         versions:
             v51.0.5:
             v49.1.1:
+            v52.4.5:
     inventorytweaks:
         name: "Inventory Tweaks"
         description: "Tweaks your inventory handling to be more intuitive. Break your iron sword in the heat of battle and don't have time to replace it? No worries, if you have another one handy in your inventory it will automatically be moved into the last slot it was used! Works with all stacked items!"
@@ -196,12 +275,14 @@ mods:
         optional: true
         versions:
             v1.41b:
+            v1.50:
     ironchests:
         name: "Iron Chests"
         installtype: "zip"
         versions:
             v4.3.0.145:
             v3.8.0.40:
+            v5.1.0.249:
     matmos:
         name: "MAtmos"
         description: ""
@@ -227,11 +308,17 @@ mods:
         link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/"
         versions:
             v1.4.4:
+            v2.1.4.48:
     mocreatures:
         installtype: "zip"
         name: "Mo Creatures"
         versions:
             v4.3.1:
+    mystcraft:
+        name: "Mystcraft"
+        installtype: "zip"
+        versions:
+            v0.9.5:
     nei:
         name: "Not Enough Items"
         installtype: "zip"
@@ -239,6 +326,7 @@ mods:
             v1.4.3.4:
             v1.2.2.2:
             v1.2.2:
+            v1.4.7.0:
     netherores:
         name: "Nether Ores"
         description: "This is a fairly basic mod. It makes the eight 'ores' - coal, diamond, gold, iron, lapis, redstone, sopper and tin - spawn in the nether so that you have a reason to go there."
@@ -248,6 +336,12 @@ mods:
         versions:
             v1.4.4:
             v1.2.1:
+            v2.0.5.26:
+    omnitools:
+        name: "OmNiTools"
+        installtype: "zip"
+        versions:
+            v3.0.4:
     powerconverters:
         name: "Power Converters"
         description: ""
@@ -256,6 +350,19 @@ mods:
         versions:
             v1.4.4:
             v1.3.4:
+            v2.2.1.23:
+    powercrystalscore:
+        name: "Power Crystals Core"
+        description: "Required by PC Mods"
+        installtype: "zip"
+        modtype: "content"
+        versions:
+            v1.0.2.22:
+    powersuits:
+        name: "Modular Powersuits"
+        installtype: "zip"
+        versions:
+            v0.3.0.178:
     rc:
         name: "Railcraft"
         description: "Have you ever wished minecarts and rails had received a bit more attention during development? Well that ends now! Gone are all those broken bits and in their place are a ton of new tools to build your massive rail system. If you ever cared about rails, you wont ever look back!"
@@ -265,6 +372,7 @@ mods:
         versions:
             v5.4.7b:
             v5.3.3:
+            v6.17:
     redpower:
         name: "RedPower"
         description: "Redpower by Eloraam is a mod for minecraft which introduces redstone-like wires, cables, integrated circuits, lights, and more."
@@ -273,6 +381,7 @@ mods:
         link: "http://www.eloraam.com/"
         versions:
             v2.0.5b2:
+            v2.0.6:
     reisminimap:
         name: "Rei's Minimap"
         description: "Adds a realtime minimap with features such as waypoints, cave maps and entity locations."
@@ -283,29 +392,68 @@ mods:
         versions:
             v3.2_05:
             v3.2_04:
+            v3.2_06:
     sapman:
         name: "San Andreas P Mod manager"
         description: "Required by Clay Soldiers"
         installtype: "zip"
         versions:
             v12:
+    slimelib:
+        name: "SlimeVoidLib"
+        installtype: "zip"
+        versions:
+            v2.0.1.1:
     srm:
         name: "Secret Rooms Mod"
         installtype: "zip"
         versions:
             v4.4.0.144:
+            v4.5.0.190:
+    stevescarts:
+        name: "Steve's Carts 2"
+        installtype: "zip"
+        versions:
+            v2.0.0.60:
+    thermal:
+        name: "Thermal Expansion"
+        installtype: "zip"
+        versions:
+            v2.2.2.2:
+    transformers:
+        name: "Transformers"
+        installtype: "zip"
+        versions:
+            v1.7:
+    trapcraft:
+        name: "Trapcraft"
+        installtype: "zip"
+        versions:
+            v1.0:
+    treecapitator:
+        name: "Treecapitator"
+        installtype: "zip"
+        versions:
+            v1.4.6.03:
     tubestuff:
         name: "Tube Stuff"
         installtype: "zip"
         versions:
             v51.0.3:
             v49.1.2:
+            v52.3.2:
     wrcbe:
         name: "Wireless Redstone Chicken Bones Edition"
         installtype: "zip"
         versions:
             v1.3.1.4:
             v1.2.2.3:
+            v1.3.2.8:
+    xpbooks:
+        name: "XP-Books"
+        installtype: "zip"
+        versions:
+            v1.4.1:
     z-tekkit-configs:
         name: "Tekkit Configs"
         description: "A collection of configs for all Tekkit mods"
