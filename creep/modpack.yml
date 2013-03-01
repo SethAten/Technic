@@ -17,6 +17,7 @@ builds:
         mods:
             a-creep-basemods: v1.1.0
             a-creep-configs: v1.1.0
+            a-creep-coremods: v1.1.0
             animalbikes: v1.4.6
             balkonsweaponmod: v1.10.3
             buildcraft: v3.4.3
@@ -24,12 +25,10 @@ builds:
             buildcraft-logisticspipes: v0.7.0.81
             cameracraft: v2.3
             camping: v1.0
-            codechickencore: v0.7.3
             cofhcore: v1.4.7.3
             coloredbeds: v3.1
             computercraft: v1.5
             dimanchor: v52.1.9
-            dynamiclights: v1.4.6
             dynelevators: v2.0.0.4
             ee3: v1.6
             enderstorage: v1.4.1.2
@@ -46,12 +45,10 @@ builds:
             ironchests: v5.1.0.249
             mfr: v2.1.4.48
             mystcraft: v0.9.5
-            nei: v1.4.7.0
             neiplugins: v1.4.7.0
             netherores: v2.0.5.26
             omnitools: v3.0.4
             powerconverters: v2.2.1.23
-            powercrystalscore: v1.0.2.22
             powersuits: v0.3.0.178
             rc: v6.17
             redpower: v2.0.6
@@ -62,7 +59,6 @@ builds:
             thermal: v2.2.2.2
             transformers: v1.7
             trapcraft: v1.0
-            treecapitator: v1.4.6.03
             tubestuff: v52.3.2
             wrcbe: v1.3.2.8
             xpbooks: v1.4.1
