@@ -7,6 +7,7 @@ FD1B7FF75BB897B6B90F55CC5465F603|amari\resources\icon.ico
 8E8778078A175A33603A585257F28563|Patches\Minecraft\Create Patch\minecraft_1.2.5.jar
 B15E2B2B6B4629F0D99A95B6B44412A0|Patches\Minecraft\Create Patch\minecraft_1.4.5.jar
 48677DC4C2B98C29918722B5AB27B4FD|Patches\Minecraft\Create Patch\minecraft_1.4.6.jar
+FD11CBC5B01AAE1D62CFF0145171F3D9|Patches\Minecraft\Create Patch\minecraft_1.5.jar
 637BDB37AEB20732C84EDF142D4CC332|creep\modpack.yml
 7D6D1D4B6B78C23C3CE9376BDE320FE9|creep\resources\favicon.png
 47B71F7E20000BF87EB7D072DD09D667|creep\resources\icon.icns
@@ -177,7 +178,7 @@ D02785FE5CE52C0D8E93334FA6CB8607|mods\z-vanmodded-keybinds\z-vanmodded-keybinds-
 C72F0962D992FA5E787DADB806453533|mods.yml
 B687971BD4A77CCB04330F7E86211841|Patches\Minecraft\Create Patch\diff.jar
 8E80FB01B321C6B3C7EFCA397A3EEA35|Patches\Minecraft\Create Patch\minecraft_1.4.7.jar
-FD11CBC5B01AAE1D62CFF0145171F3D9|Patches\Minecraft\Create Patch\minecraft_1.5.jar
+FD11CBC5B01AAE1D62CFF0145171F3D9|Patches\Minecraft\Create Patch\minecraft_1.5.0.jar
 8E8778078A175A33603A585257F28563|Patches\Minecraft\Create Patch\notusing\minecraft_1.2.5.jar
 B15E2B2B6B4629F0D99A95B6B44412A0|Patches\Minecraft\Create Patch\notusing\minecraft_1.4.5.jar
 48677DC4C2B98C29918722B5AB27B4FD|Patches\Minecraft\Create Patch\notusing\minecraft_1.4.6.jar
@@ -211,6 +212,7 @@ ED6DD28FDEEE116BF746ADD8E8252628|Patches\Minecraft\minecraft_1.4.6-1.2.5.patch
 E26AB80E55CD1C35692A42A1EBD9BE75|Patches\Minecraft\minecraft_1.4.6-1.4.5.patch
 6FE867CDDEB354F78AE81FA49332AB3D|Patches\Minecraft\minecraft_1.4.7-1.2.5.patch
 6D53F8CA390930AD028F76457251DC73|Patches\Minecraft\minecraft_1.5-1.4.7.patch
+6D53F8CA390930AD028F76457251DC73|Patches\Minecraft\minecraft_1.5.0-1.4.7.patch
 4D2B9BDF8DBAFFFDD6CAB70859098A18|Patches\Minecraft\minecraft_b1.7.2-1.0.0.patch
 EC8EEF44F9DD76DF15563243EBBC8B6E|Patches\Minecraft\minecraft_b1.7.2-b1.7.3.patch
 4D9FE18BEB5364963017985FE5B1B88F|Patches\Minecraft\minecraft_b1.7.2-b1.8.1.patch
