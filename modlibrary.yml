@@ -16,6 +16,7 @@ mods:
         link: ""
         versions:
             v1.0.0:
+            v1.0.3:
             v1.1.0:
     a-creep-coremods:
         name: "CreeperPackCoreMods"
