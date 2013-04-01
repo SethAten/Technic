@@ -51,7 +51,7 @@ F769AF516A5E9F7A87931C4EA25DB077|modpacks.yml
 71E0418586772FFFB1C96AF84D81AE52|mods\a-creep-basemods\a-creep-basemods-v1.0.0.zip
 86E8379C4CC70986D4D8B4B2E9A46FD7|mods\a-creep-basemods\a-creep-basemods-v1.1.0.zip
 91E0AB9E62ECB4659137F8BC67D42C91|mods\a-creep-configs\a-creep-configs-v1.0.0.zip
-ED20B506FE143CEEDE74106C66161A1E|mods\a-creep-configs\a-creep-configs-v1.0.3.zip
+AE404B24CF1D9FEB0704A9098B69DA3E|mods\a-creep-configs\a-creep-configs-v1.0.3.zip
 0D738E107B9E2E4C44B7755D3C56D2FA|mods\a-creep-configs\a-creep-configs-v1.1.0.zip
 AEEACFA7A52ECF1BB1AF1655BBE0F7D1|mods\a-creep-coremods\a-creep-coremods-v1.0.0.zip
 4C81A7DBB3E2DB5BE226D3CDD21C3654|mods\a-creep-coremods\a-creep-coremods-v1.1.0.zip
@@ -235,6 +235,7 @@ F640DA15AC0416E5BB4281AE2AF99072|Patches\Minecraft\minecraft_b1.8.1-1.0.0.patch
 87D5C760386C1AFF34F40299A47A222A|Patches\Minecraft\minecraft_b1.8.1-b1.7.2.patch
 E2309080B2EAD234AD054E6C3FF3951F|Patches\Minecraft\minecraft_b1.8.1-b1.7.3.patch
 A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
+E0623132DE3F8BFE6E7347250370B62E|servers\cello\celloserver.zip
 1585944BC11E8F7334EEAFF037322E93|servers\tekkit\Tekkit_Server_3.1.2.zip
 39632DE8451685FE49214A140BF804E2|servers\tekkit\Tekkit_Server_3.1.3.zip
 86159E7965D007034C87A926DECECEC3|servers\vanmodded\Vanmodded_Server_1.0.0.zip
