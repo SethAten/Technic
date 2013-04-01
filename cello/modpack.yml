@@ -16,7 +16,7 @@ builds:
         minecraft: 1.4.7
         mods:
             a-creep-basemods: v1.1.0
-            a-creep-configs: v1.1.0
+            a-creep-configs: v1.0.3
             a-creep-coremods: v1.1.0
             balkonsweaponmod: v1.10.3
             buildcraft: v3.4.3

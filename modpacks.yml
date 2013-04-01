@@ -1,9 +1,5 @@
 modpacks:
-    #vanmodded: 'Modded Vanilla'
     creep: 'CreeperPack'
     amari: 'AmariPack'
+    cello: 'CelloPack'
     vanilla: 'Vanilla'
-#    tekkit: 'Tekkit'
-#    yogbox: 'Yogbox'
-#    hackslashmine: 'Hack Slash Mine'
-    spotlight: 'Treeworld'
