@@ -8,6 +8,7 @@ mods:
         versions:
             v1.0.0:
             v1.1.0:
+            v1.1.1:
     a-creep-configs:
         name: "CreeperPackConfigs"
         description: "Rest of Mods not yet seperated out"
@@ -18,6 +19,7 @@ mods:
             v1.0.0:
             v1.0.3:
             v1.1.0:
+            v1.1.1:
     a-creep-coremods:
         name: "CreeperPackCoreMods"
         description: "Rest of Mods not yet seperated out"
@@ -27,6 +29,7 @@ mods:
         versions:
             v1.0.0:
             v1.1.0:
+            v1.1.1:
     a-creep-mods:
         name: "CreeperPackMods"
         description: "Rest of Mods not yet seperated out"
@@ -94,11 +97,13 @@ mods:
         versions:
             v2.1.3:
             v2.1.3.40:
+            v2.1.3.42:
     buildcraft-logisticspipes:
         name: "buildcraft-logisticspipes"
         installtype: "zip"
         versions:
             v0.7.0.81:
+            v0.7.0.90:
     cameracraft:
         name: "Cameracraft"
         installtype: "zip"
@@ -254,6 +259,7 @@ mods:
             v3.1.3.18:
             v2.3.2.10:
             v3.2.3.23:
+            v4.0.3.29:
     ic2-nuclearcontrol:
         name: "IC2 Nuuclear Control"
         installtype: "zip"
@@ -285,6 +291,7 @@ mods:
             v4.3.0.145:
             v3.8.0.40:
             v5.1.0.249:
+            v5.1.0.260:
     matmos:
         name: "MAtmos"
         description: ""
@@ -311,6 +318,7 @@ mods:
         versions:
             v1.4.4:
             v2.1.4.48:
+            v2.3.2.287:
     mocreatures:
         installtype: "zip"
         name: "Mo Creatures"
@@ -345,6 +353,7 @@ mods:
             v1.4.4:
             v1.2.1:
             v2.0.5.26:
+            v2.0.6.32:
     omnitools:
         name: "OmNiTools"
         installtype: "zip"
@@ -359,6 +368,7 @@ mods:
             v1.4.4:
             v1.3.4:
             v2.2.1.23:
+            v2.2.2.29:
     powercrystalscore:
         name: "Power Crystals Core"
         description: "Required by PC Mods"
@@ -371,6 +381,7 @@ mods:
         installtype: "zip"
         versions:
             v0.3.0.178:
+            v0.3.2.199:
     rc:
         name: "Railcraft"
         description: "Have you ever wished minecarts and rails had received a bit more attention during development? Well that ends now! Gone are all those broken bits and in their place are a ton of new tools to build your massive rail system. If you ever cared about rails, you wont ever look back!"
@@ -423,6 +434,7 @@ mods:
         installtype: "zip"
         versions:
             v2.0.0.60:
+            v2.0.0.a61:
     thermal:
         name: "Thermal Expansion"
         installtype: "zip"

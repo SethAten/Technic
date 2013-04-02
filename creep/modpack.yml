@@ -15,17 +15,14 @@ builds:
         libraries:
         minecraft: 1.4.7
         mods:
-            a-creep-basemods: v1.1.0
+            a-creep-basemods: v1.1.1
             a-creep-configs: v1.1.1
-            a-creep-coremods: v1.1.0
+            a-creep-coremods: v1.1.1
             balkonsweaponmod: v1.10.3
             buildcraft: v3.4.3
-            buildcraft-additionalpipes: v2.1.3.40
-            buildcraft-logisticspipes: v0.7.0.81
-            camping: v1.0
+            buildcraft-additionalpipes: v2.1.3.42
+            buildcraft-logisticspipes: v0.7.0.90
             cofhcore: v1.4.7.3
-            computercraft: v1.5
-            dimanchor: v52.1.9
             ee3: v1.6
             enderstorage: v1.4.1.2
             factorization: v0.7.10
@@ -34,25 +31,23 @@ builds:
             ic2-advancedmachines: v4.7.1
             ic2-advpowermanagement: v1.1.55
             ic2-advancedrepulsionsystems: v52.0.6
-            ic2-compactsolars: v3.2.3.23
+            ic2-compactsolars: v4.0.3.29
             ic2-nuclearcontrol: v1.4.6
             immibiscore: v52.4.5
             inventorytweaks: v1.50
-            ironchests: v5.1.0.249
-            mfr: v2.1.4.48
-            mystcraft: v0.9.5
+            ironchests: v5.1.0.260
+            mfr: v2.3.2.287
             neiplugins: v1.4.7.0
-            netherores: v2.0.5.26
+            netherores: v2.0.6.32
             omnitools: v3.0.4
-            powerconverters: v2.2.1.23
-            powersuits: v0.3.0.178
+            powerconverters: v2.2.2.29
+            powersuits: v0.3.2.199
             rc: v6.17
             redpower: v2.0.6
             reisminimap: v3.2_06
             srm: v4.5.0.190
-            stevescarts: v2.0.0.60
+            stevescarts: v2.0.0.a61
             thermal: v2.2.2.2
-            transformers: v1.7
             tubestuff: v52.3.2
             wrcbe: v1.3.2.8
             xpbooks: v1.4.1
